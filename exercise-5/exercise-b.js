@@ -10,4 +10,3 @@ for (let index = 0; index < a.length; index++) {
     alert(a[index])
     
 }
-console.log(a)
